@@ -6,7 +6,7 @@
    // console.log("hello, " + name + "!");
 //}
 
-//typescript
+//typescript..
 function greet(name: number): void { 
     console.log(`hello,  ${name}!` );
 }
