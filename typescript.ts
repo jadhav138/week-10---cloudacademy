@@ -13,5 +13,6 @@ function greet(name: number): void {
 
 //in type script we are defining what type of name is (string)
 greet(32); //it works because it is a number 
-//greet(@omkar) it will never work
+//greet(@omkar) it will never work...
+
 
