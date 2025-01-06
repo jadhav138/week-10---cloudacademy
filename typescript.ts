@@ -15,4 +15,4 @@ function greet(name: number): void {
 greet(32); //it works because it is a number 
 //greet(@omkar) it will never work...
 
-//this is typescript
+
